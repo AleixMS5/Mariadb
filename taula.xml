@@ -1,0 +1,399 @@
+<table class="items">
+<thead>
+<tr>
+<th class="zentriert" id="yw1_c0"><a class="sort-link asc" href="/ae-prat/kader/verein/34549/saison_id/2022/plus/1/sort/trikotNumber.desc">#</a></th><th id="yw1_c1">Jugadores</th><th class="zentriert" id="yw1_c2"><a class="sort-link" href="/ae-prat/kader/verein/34549/saison_id/2022/plus/1/sort/age">Nacido / edad</a></th><th class="zentriert" id="yw1_c3">Nac.</th><th class="zentriert" id="yw1_c4"><a class="sort-link" href="/ae-prat/kader/verein/34549/saison_id/2022/plus/1/sort/size.desc">Altura</a></th><th class="zentriert" id="yw1_c5"><a class="sort-link" href="/ae-prat/kader/verein/34549/saison_id/2022/plus/1/sort/foot.desc">Pie</a></th><th class="zentriert" id="yw1_c6"><a class="sort-link" href="/ae-prat/kader/verein/34549/saison_id/2022/plus/1/sort/teamMemberSinceTimestamp">Fichado</a></th><th class="zentriert" id="yw1_c7">antes</th><th class="zentriert" id="yw1_c8"><a class="sort-link" href="/ae-prat/kader/verein/34549/saison_id/2022/plus/1/sort/contractEndTimestamp">Contrato</a></th><th class="rechts" id="yw1_c9"><a class="sort-link desc" href="/ae-prat/kader/verein/34549/saison_id/2022/plus/1/sort/marketValueRaw">Valor de mercado</a></th></tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td title="$data-&gt;getPositionDisplay()" class="zentriert rueckennummer bg_Torwart"><div class="rn_nummer">1</div></td><td class="posrela">
+<table class="inline-table">
+    <tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1" title="Carlos Craviotto" alt="Carlos Craviotto" class="bilderrahmen-fixed lazy lazy" />        </td>
+        <td class="hauptlink">
+            <a href="/carlos-craviotto/profil/spieler/72808">
+                Carlos Craviotto            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Portero        </td>
+    </tr>
+</table>
+</td><td class="zentriert">07/05/1983 (39)</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/157.png?lm=1520611569" title="España" alt="España" class="flaggenrahmen" /></td><td class="zentriert">1,80m</td><td class="zentriert"></td><td class="zentriert">29/07/2020</td><td class="zentriert"><a title="UE Sant Andreu: Ablöse Libre" href="/ue-sant-andreu/startseite/verein/12697/saison_id/2020"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/12697.png?lm=1457444189" title="UE Sant Andreu" alt="UE Sant Andreu" class="" /></a></td><td class="zentriert">30/06/2023</td><td class="rechts hauptlink">25 mil €</td></tr>
+<tr class="even">
+<td title="$data-&gt;getPositionDisplay()" class="zentriert rueckennummer bg_Torwart"><div class="rn_nummer">13</div></td><td class="posrela"><span class="wechsel-kader-wappen hide-for-small"><a title="Nuevo fichaje del: CF Peralada; Fecha: 01/07/2022; Coste: Libre" href="/cf-peralada/startseite/verein/18446/saison_id/2022"><img src="https://tmssl.akamaized.net/images/wappen/kaderquad/18446.png?lm=1468563947" title="CF Peralada" alt="CF Peralada" class="" /></a></span><a title="Nuevo fichaje del: CF Peralada; Fecha: 01/07/2022; Coste: Libre" class="hide-for-small" href="/cf-peralada/startseite/verein/18446/saison_id/2022"><img src="/images/icons/zugang_beta_kader.png" class="wechsel-symbol" width="19px" height="19px" /></a>
+<table class="inline-table">
+    <tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1" title="Aitor Mujica" alt="Aitor Mujica" class="bilderrahmen-fixed lazy lazy" />        </td>
+        <td class="hauptlink">
+            <a href="/aitor-mujica/profil/spieler/1025414">
+                Aitor Mujica            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Portero        </td>
+    </tr>
+</table>
+</td><td class="zentriert">01/01/2001 (21)</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/157.png?lm=1520611569" title="España" alt="España" class="flaggenrahmen" /></td><td class="zentriert">-</td><td class="zentriert"></td><td class="zentriert">01/07/2022</td><td class="zentriert"><a title="CF Peralada: Ablöse Libre" href="/cf-peralada/startseite/verein/18446/saison_id/2022"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/18446.png?lm=1468563947" title="CF Peralada" alt="CF Peralada" class="" /></a></td><td class="zentriert">30/06/2023</td><td class="rechts hauptlink">25 mil €</td></tr>
+<tr class="odd">
+<td title="$data-&gt;getPositionDisplay()" class="zentriert rueckennummer bg_Abwehr"><div class="rn_nummer">4</div></td><td class="posrela">
+<table class="inline-table">
+    <tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1" title="Héctor Rodríguez" alt="Héctor Rodríguez" class="bilderrahmen-fixed lazy lazy" />        </td>
+        <td class="hauptlink">
+            <a href="/hector-rodriguez/profil/spieler/240042">
+                Héctor Rodríguez            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Defensa central        </td>
+    </tr>
+</table>
+</td><td class="zentriert">11/07/1993 (29)</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/157.png?lm=1520611569" title="España" alt="España" class="flaggenrahmen" /></td><td class="zentriert">1,81m</td><td class="zentriert">derecho</td><td class="zentriert">01/07/2018</td><td class="zentriert"><a title="FC Ascó: Ablöse Libre" href="/fc-asco/startseite/verein/41761/saison_id/2018"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/41761.png?lm=1468617068" title="FC Ascó" alt="FC Ascó" class="" /></a></td><td class="zentriert">30/06/2023</td><td class="rechts hauptlink">100 mil €</td></tr>
+<tr class="even">
+<td title="$data-&gt;getPositionDisplay()" class="zentriert rueckennummer bg_Abwehr"><div class="rn_nummer">5</div></td><td class="posrela">
+<table class="inline-table">
+    <tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1" title="Pau Rosales" alt="Pau Rosales" class="bilderrahmen-fixed lazy lazy" />        </td>
+        <td class="hauptlink">
+            <a href="/pau-rosales/profil/spieler/894474">
+                Pau Rosales            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Defensa central        </td>
+    </tr>
+</table>
+</td><td class="zentriert">18/08/1999 (23)</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/157.png?lm=1520611569" title="España" alt="España" class="flaggenrahmen" /></td><td class="zentriert">-</td><td class="zentriert"></td><td class="zentriert">01/07/2021</td><td class="zentriert"><a title="UE Vilassar de Mar: Ablöse Libre" href="/ue-vilassar-de-mar/startseite/verein/18458/saison_id/2021"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/18458.png?lm=1406194580" title="UE Vilassar de Mar" alt="UE Vilassar de Mar" class="" /></a></td><td class="zentriert">30/06/2023</td><td class="rechts hauptlink">50 mil €</td></tr>
+<tr class="odd">
+<td title="$data-&gt;getPositionDisplay()" class="zentriert rueckennummer bg_Abwehr"><div class="rn_nummer">8</div></td><td class="posrela">
+<table class="inline-table">
+    <tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/8733-1655554289.png?lm=1" title="Javi Martos" alt="Javi Martos" class="bilderrahmen-fixed lazy lazy" />        </td>
+        <td class="hauptlink">
+            <a href="/javi-martos/profil/spieler/8733">
+                Javi Martos            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Defensa central        </td>
+    </tr>
+</table>
+</td><td class="zentriert">04/01/1984 (38)</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/157.png?lm=1520611569" title="España" alt="España" class="flaggenrahmen" /></td><td class="zentriert">1,81m</td><td class="zentriert">derecho</td><td class="zentriert">16/07/2020</td><td class="zentriert"><a title="FC Andorra: Ablöse Libre" href="/fc-andorra/startseite/verein/10718/saison_id/2020"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/10718.png?lm=1652807647" title="FC Andorra" alt="FC Andorra" class="" /></a></td><td class="zentriert">30/06/2023</td><td class="rechts hauptlink">50 mil €</td></tr>
+<tr class="even">
+<td title="$data-&gt;getPositionDisplay()" class="zentriert rueckennummer bg_Abwehr"><div class="rn_nummer">22</div></td><td class="posrela"><span class="wechsel-kader-wappen hide-for-small"><a title="Nuevo fichaje del: Terrassa FC; Fecha: 01/07/2022; Coste: Libre" href="/terrassa-fc/startseite/verein/1881/saison_id/2022"><img src="https://tmssl.akamaized.net/images/wappen/kaderquad/1881.png?lm=1438342587" title="Terrassa FC" alt="Terrassa FC" class="" /></a></span><a title="Nuevo fichaje del: Terrassa FC; Fecha: 01/07/2022; Coste: Libre" class="hide-for-small" href="/terrassa-fc/startseite/verein/1881/saison_id/2022"><img src="/images/icons/zugang_beta_kader.png" class="wechsel-symbol" width="19px" height="19px" /></a>
+<table class="inline-table">
+    <tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1" title="Ramón Marimón" alt="Ramón Marimón" class="bilderrahmen-fixed lazy lazy" />        </td>
+        <td class="hauptlink">
+            <a href="/ramon-marimon/profil/spieler/442420">
+                Ramón Marimón            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Defensa central        </td>
+    </tr>
+</table>
+</td><td class="zentriert">23/02/1994 (28)</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/157.png?lm=1520611569" title="España" alt="España" class="flaggenrahmen" /></td><td class="zentriert">1,90m</td><td class="zentriert">derecho</td><td class="zentriert">01/07/2022</td><td class="zentriert"><a title="Terrassa FC: Ablöse Libre" href="/fc-terrassa/startseite/verein/1881/saison_id/2022"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/1881.png?lm=1438342587" title="Terrassa FC" alt="Terrassa FC" class="" /></a></td><td class="zentriert">30/06/2023</td><td class="rechts hauptlink">25 mil €</td></tr>
+<tr class="odd">
+<td title="$data-&gt;getPositionDisplay()" class="zentriert rueckennummer bg_Abwehr"><div class="rn_nummer">3</div></td><td class="posrela"><span class="wechsel-kader-wappen hide-for-small"><a title="Nuevo fichaje del: CF Badalona Futur; Fecha: 01/07/2022; Coste: Libre" href="/cf-badalona-futur/startseite/verein/6638/saison_id/2022"><img src="https://tmssl.akamaized.net/images/wappen/kaderquad/6638.png?lm=1666877307" title="CF Badalona Futur" alt="CF Badalona Futur" class="" /></a></span><a title="Nuevo fichaje del: CF Badalona Futur; Fecha: 01/07/2022; Coste: Libre" class="hide-for-small" href="/cf-badalona-futur/startseite/verein/6638/saison_id/2022"><img src="/images/icons/zugang_beta_kader.png" class="wechsel-symbol" width="19px" height="19px" /></a>
+<table class="inline-table">
+    <tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1" title="Valentín Merchán" alt="Valentín Merchán" class="bilderrahmen-fixed lazy lazy" />        </td>
+        <td class="hauptlink">
+            <a href="/valentin-merchan/profil/spieler/253571">
+                Valentín Merchán            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Lateral izquierdo        </td>
+    </tr>
+</table>
+</td><td class="zentriert">26/05/1985 (37)</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/157.png?lm=1520611569" title="España" alt="España" class="flaggenrahmen" /></td><td class="zentriert">1,80m</td><td class="zentriert">izquierdo</td><td class="zentriert">01/07/2022</td><td class="zentriert"><a title="CF Badalona Futur: Ablöse Libre" href="/fc-badalona/startseite/verein/6638/saison_id/2022"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/6638.png?lm=1666877307" title="CF Badalona Futur" alt="CF Badalona Futur" class="" /></a></td><td class="zentriert">30/06/2023</td><td class="rechts hauptlink">25 mil €</td></tr>
+<tr class="even">
+<td title="$data-&gt;getPositionDisplay()" class="zentriert rueckennummer bg_Abwehr"><div class="rn_nummer">18</div></td><td class="posrela"><span class="wechsel-kader-wappen hide-for-small"><a title="Nuevo fichaje del: CE Europa; Fecha: 01/07/2022; Coste: Libre" href="/ce-europa/startseite/verein/20528/saison_id/2022"><img src="https://tmssl.akamaized.net/images/wappen/kaderquad/20528.png?lm=1622569121" title="CE Europa" alt="CE Europa" class="" /></a></span><a title="Nuevo fichaje del: CE Europa; Fecha: 01/07/2022; Coste: Libre" class="hide-for-small" href="/ce-europa/startseite/verein/20528/saison_id/2022"><img src="/images/icons/zugang_beta_kader.png" class="wechsel-symbol" width="19px" height="19px" /></a>
+<table class="inline-table">
+    <tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1" title="Guillem Corominas" alt="Guillem Corominas" class="bilderrahmen-fixed lazy lazy" />        </td>
+        <td class="hauptlink">
+            <a href="/guillem-corominas/profil/spieler/611047">
+                Guillem Corominas            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Lateral izquierdo        </td>
+    </tr>
+</table>
+</td><td class="zentriert">06/03/2000 (22)</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/157.png?lm=1520611569" title="España" alt="España" class="flaggenrahmen" /></td><td class="zentriert">1,72m</td><td class="zentriert"></td><td class="zentriert">01/07/2022</td><td class="zentriert"><a title="CE Europa: Ablöse Libre" href="/ce-europa/startseite/verein/20528/saison_id/2022"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/20528.png?lm=1622569121" title="CE Europa" alt="CE Europa" class="" /></a></td><td class="zentriert">30/06/2023</td><td class="rechts hauptlink">25 mil €</td></tr>
+<tr class="odd">
+<td title="$data-&gt;getPositionDisplay()" class="zentriert rueckennummer bg_Abwehr"><div class="rn_nummer">2</div></td><td class="posrela"><span class="wechsel-kader-wappen hide-for-small"><a title="Nuevo fichaje del: UE Santa Coloma; Fecha: 08/07/2022; Coste: Libre" href="/ue-santa-coloma/startseite/verein/28633/saison_id/2022"><img src="https://tmssl.akamaized.net/images/wappen/kaderquad/28633.png?lm=1467553539" title="UE Santa Coloma" alt="UE Santa Coloma" class="" /></a></span><a title="Nuevo fichaje del: UE Santa Coloma; Fecha: 08/07/2022; Coste: Libre" class="hide-for-small" href="/ue-santa-coloma/startseite/verein/28633/saison_id/2022"><img src="/images/icons/zugang_beta_kader.png" class="wechsel-symbol" width="19px" height="19px" /></a>
+<table class="inline-table">
+    <tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1" title="Sergi Benítez" alt="Sergi Benítez" class="bilderrahmen-fixed lazy lazy" />        </td>
+        <td class="hauptlink">
+            <a href="/sergi-benitez/profil/spieler/628489">
+                Sergi Benítez            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Lateral derecho        </td>
+    </tr>
+</table>
+</td><td class="zentriert">09/01/2001 (21)</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/157.png?lm=1520611569" title="España" alt="España" class="flaggenrahmen" /></td><td class="zentriert">-</td><td class="zentriert">derecho</td><td class="zentriert">08/07/2022</td><td class="zentriert"><a title="UE Santa Coloma: Ablöse Libre" href="/ue-santa-coloma/startseite/verein/28633/saison_id/2022"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/28633.png?lm=1467553539" title="UE Santa Coloma" alt="UE Santa Coloma" class="" /></a></td><td class="zentriert">30/06/2023</td><td class="rechts hauptlink">25 mil €</td></tr>
+<tr class="even">
+<td title="$data-&gt;getPositionDisplay()" class="zentriert rueckennummer bg_Abwehr"><div class="rn_nummer">15</div></td><td class="posrela">
+<table class="inline-table">
+    <tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1" title="Yaya Sidibé" alt="Yaya Sidibé" class="bilderrahmen-fixed lazy lazy" />        </td>
+        <td class="hauptlink">
+            <a href="/yaya-sidibe/profil/spieler/711962">
+                Yaya Sidibé            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Lateral derecho        </td>
+    </tr>
+</table>
+</td><td class="zentriert">27/11/1996 (26)</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/105.png?lm=1520611569" title="Malí" alt="Malí" class="flaggenrahmen" /></td><td class="zentriert">-</td><td class="zentriert"></td><td class="zentriert">01/07/2021</td><td class="zentriert"><a title="UE Sant Andreu: Ablöse Libre" href="/ue-sant-andreu/startseite/verein/12697/saison_id/2021"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/12697.png?lm=1457444189" title="UE Sant Andreu" alt="UE Sant Andreu" class="" /></a></td><td class="zentriert">30/06/2023</td><td class="rechts hauptlink">25 mil €</td></tr>
+<tr class="odd">
+<td title="$data-&gt;getPositionDisplay()" class="zentriert rueckennummer bg_Mittelfeld"><div class="rn_nummer">14</div></td><td class="posrela"><span class="wechsel-kader-wappen hide-for-small"><a title="Nuevo fichaje del: CF Badalona Futur; Fecha: 10/07/2022; Coste: Libre" href="/cf-badalona-futur/startseite/verein/6638/saison_id/2022"><img src="https://tmssl.akamaized.net/images/wappen/kaderquad/6638.png?lm=1666877307" title="CF Badalona Futur" alt="CF Badalona Futur" class="" /></a></span><a title="Nuevo fichaje del: CF Badalona Futur; Fecha: 10/07/2022; Coste: Libre" class="hide-for-small" href="/cf-badalona-futur/startseite/verein/6638/saison_id/2022"><img src="/images/icons/zugang_beta_kader.png" class="wechsel-symbol" width="19px" height="19px" /></a>
+<table class="inline-table">
+    <tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1" title="Alex Pla" alt="Alex Pla" class="bilderrahmen-fixed lazy lazy" />        </td>
+        <td class="hauptlink">
+            <a href="/alex-pla/profil/spieler/441626">
+                Alex Pla            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Mediocentro        </td>
+    </tr>
+</table>
+</td><td class="zentriert">18/01/1992 (30)</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/157.png?lm=1520611569" title="España" alt="España" class="flaggenrahmen" /></td><td class="zentriert">-</td><td class="zentriert"></td><td class="zentriert">10/07/2022</td><td class="zentriert"><a title="CF Badalona Futur: Ablöse Libre" href="/fc-badalona/startseite/verein/6638/saison_id/2022"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/6638.png?lm=1666877307" title="CF Badalona Futur" alt="CF Badalona Futur" class="" /></a></td><td class="zentriert">30/06/2023</td><td class="rechts hauptlink">150 mil €</td></tr>
+<tr class="even">
+<td title="$data-&gt;getPositionDisplay()" class="zentriert rueckennummer bg_Mittelfeld"><div class="rn_nummer">6</div></td><td class="posrela">
+<table class="inline-table">
+    <tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1" title="Adri Díaz" alt="Adri Díaz" class="bilderrahmen-fixed lazy lazy" />        </td>
+        <td class="hauptlink">
+            <a href="/adri-diaz/profil/spieler/395502">
+                Adri Díaz            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Mediocentro        </td>
+    </tr>
+</table>
+</td><td class="zentriert">21/08/1994 (28)</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/157.png?lm=1520611569" title="España" alt="España" class="flaggenrahmen" /></td><td class="zentriert">-</td><td class="zentriert"></td><td class="zentriert">01/07/2020</td><td class="zentriert"><a title="CF Badalona: Ablöse Libre" href="/fc-badalona/startseite/verein/6638/saison_id/2020"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/6638.png?lm=1666877307" title="CF Badalona" alt="CF Badalona" class="" /></a></td><td class="zentriert">30/06/2023</td><td class="rechts hauptlink">50 mil €</td></tr>
+<tr class="odd">
+<td title="$data-&gt;getPositionDisplay()" class="zentriert rueckennummer bg_Mittelfeld"><div class="rn_nummer">16</div></td><td class="posrela"><span class="wechsel-kader-wappen hide-for-small"><a title="Nuevo fichaje del: CE Europa; Fecha: 01/07/2022; Coste: Libre" href="/ce-europa/startseite/verein/20528/saison_id/2022"><img src="https://tmssl.akamaized.net/images/wappen/kaderquad/20528.png?lm=1622569121" title="CE Europa" alt="CE Europa" class="" /></a></span><a title="Nuevo fichaje del: CE Europa; Fecha: 01/07/2022; Coste: Libre" class="hide-for-small" href="/ce-europa/startseite/verein/20528/saison_id/2022"><img src="/images/icons/zugang_beta_kader.png" class="wechsel-symbol" width="19px" height="19px" /></a>
+<table class="inline-table">
+    <tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1" title="Uri González" alt="Uri González" class="bilderrahmen-fixed lazy lazy" />        </td>
+        <td class="hauptlink">
+            <a href="/uri-gonzalez/profil/spieler/408475">
+                Uri González            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Mediocentro        </td>
+    </tr>
+</table>
+</td><td class="zentriert">02/02/1992 (30)</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/157.png?lm=1520611569" title="España" alt="España" class="flaggenrahmen" /></td><td class="zentriert">1,75m</td><td class="zentriert"></td><td class="zentriert">01/07/2022</td><td class="zentriert"><a title="CE Europa: Ablöse Libre" href="/ce-europa/startseite/verein/20528/saison_id/2022"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/20528.png?lm=1622569121" title="CE Europa" alt="CE Europa" class="" /></a></td><td class="zentriert">30/06/2023</td><td class="rechts hauptlink">25 mil €</td></tr>
+<tr class="even">
+<td title="$data-&gt;getPositionDisplay()" class="zentriert rueckennummer bg_Mittelfeld"><div class="rn_nummer">10</div></td><td class="posrela">
+<table class="inline-table">
+    <tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1" title="Alberto Padilla" alt="Alberto Padilla" class="bilderrahmen-fixed lazy lazy" />        </td>
+        <td class="hauptlink">
+            <a href="/alberto-padilla/profil/spieler/441293">
+                Alberto Padilla            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Mediocentro ofensivo        </td>
+    </tr>
+</table>
+</td><td class="zentriert">20/11/1986 (36)</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/157.png?lm=1520611569" title="España" alt="España" class="flaggenrahmen" /></td><td class="zentriert">-</td><td class="zentriert"></td><td class="zentriert">01/07/2016</td><td class="zentriert"><a title="CE Europa: Ablöse Libre" href="/ce-europa/startseite/verein/20528/saison_id/2016"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/20528.png?lm=1622569121" title="CE Europa" alt="CE Europa" class="" /></a></td><td class="zentriert">30/06/2023</td><td class="rechts hauptlink">50 mil €</td></tr>
+<tr class="odd">
+<td title="$data-&gt;getPositionDisplay()" class="zentriert rueckennummer bg_Mittelfeld"><div class="rn_nummer">20</div></td><td class="posrela"><span class="wechsel-kader-wappen hide-for-small"><a title="Nuevo fichaje del: Pobla de Mafumet CF; Fecha: 01/07/2022; Coste: Libre" href="/pobla-de-mafumet-cf/startseite/verein/29791/saison_id/2022"><img src="https://tmssl.akamaized.net/images/wappen/kaderquad/29791.png?lm=1458923896" title="Pobla de Mafumet CF" alt="Pobla de Mafumet CF" class="" /></a></span><a title="Nuevo fichaje del: Pobla de Mafumet CF; Fecha: 01/07/2022; Coste: Libre" class="hide-for-small" href="/pobla-de-mafumet-cf/startseite/verein/29791/saison_id/2022"><img src="/images/icons/zugang_beta_kader.png" class="wechsel-symbol" width="19px" height="19px" /></a>
+<table class="inline-table">
+    <tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1" title="Dani Molina" alt="Dani Molina" class="bilderrahmen-fixed lazy lazy" />        </td>
+        <td class="hauptlink">
+            <a href="/dani-molina/profil/spieler/960984">
+                Dani Molina            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Mediocentro ofensivo        </td>
+    </tr>
+</table>
+</td><td class="zentriert">10/04/2000 (22)</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/157.png?lm=1520611569" title="España" alt="España" class="flaggenrahmen" /></td><td class="zentriert">-</td><td class="zentriert"></td><td class="zentriert">01/07/2022</td><td class="zentriert"><a title="Pobla de Mafumet CF: Ablöse Libre" href="/pobla-de-mafumet-cf/startseite/verein/29791/saison_id/2022"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/29791.png?lm=1458923896" title="Pobla de Mafumet CF" alt="Pobla de Mafumet CF" class="" /></a></td><td class="zentriert">30/06/2023</td><td class="rechts hauptlink">25 mil €</td></tr>
+<tr class="even">
+<td title="$data-&gt;getPositionDisplay()" class="zentriert rueckennummer bg_Sturm"><div class="rn_nummer">17</div></td><td class="posrela"><span class="wechsel-kader-wappen hide-for-small"><a title="Nuevo fichaje del: CE Europa; Fecha: 01/07/2022; Coste: Libre" href="/ce-europa/startseite/verein/20528/saison_id/2022"><img src="https://tmssl.akamaized.net/images/wappen/kaderquad/20528.png?lm=1622569121" title="CE Europa" alt="CE Europa" class="" /></a></span><a title="Nuevo fichaje del: CE Europa; Fecha: 01/07/2022; Coste: Libre" class="hide-for-small" href="/ce-europa/startseite/verein/20528/saison_id/2022"><img src="/images/icons/zugang_beta_kader.png" class="wechsel-symbol" width="19px" height="19px" /></a>
+<table class="inline-table">
+    <tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1" title="Albert Martí" alt="Albert Martí" class="bilderrahmen-fixed lazy lazy" />        </td>
+        <td class="hauptlink">
+            <a href="/albert-marti/profil/spieler/783408">
+                Albert Martí            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Extremo izquierdo        </td>
+    </tr>
+</table>
+</td><td class="zentriert">07/08/1997 (25)</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/157.png?lm=1520611569" title="España" alt="España" class="flaggenrahmen" /></td><td class="zentriert">-</td><td class="zentriert"></td><td class="zentriert">01/07/2022</td><td class="zentriert"><a title="CE Europa: Ablöse Libre" href="/ce-europa/startseite/verein/20528/saison_id/2022"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/20528.png?lm=1622569121" title="CE Europa" alt="CE Europa" class="" /></a></td><td class="zentriert">30/06/2023</td><td class="rechts hauptlink">50 mil €</td></tr>
+<tr class="odd">
+<td title="$data-&gt;getPositionDisplay()" class="zentriert rueckennummer bg_Sturm"><div class="rn_nummer">19</div></td><td class="posrela"><span class="wechsel-kader-wappen hide-for-small"><a title="Nuevo fichaje del: CF Badalona Futur; Fecha: 01/07/2022; Coste: Libre" href="/cf-badalona-futur/startseite/verein/6638/saison_id/2022"><img src="https://tmssl.akamaized.net/images/wappen/kaderquad/6638.png?lm=1666877307" title="CF Badalona Futur" alt="CF Badalona Futur" class="" /></a></span><a title="Nuevo fichaje del: CF Badalona Futur; Fecha: 01/07/2022; Coste: Libre" class="hide-for-small" href="/cf-badalona-futur/startseite/verein/6638/saison_id/2022"><img src="/images/icons/zugang_beta_kader.png" class="wechsel-symbol" width="19px" height="19px" /></a>
+<table class="inline-table">
+    <tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1" title="Miguel Fernández" alt="Miguel Fernández" class="bilderrahmen-fixed lazy lazy" />        </td>
+        <td class="hauptlink">
+            <a href="/miguel-fernandez/profil/spieler/610910">
+                Miguel Fernández            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Extremo izquierdo        </td>
+    </tr>
+</table>
+</td><td class="zentriert">12/08/2000 (22)</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/157.png?lm=1520611569" title="España" alt="España" class="flaggenrahmen" /></td><td class="zentriert">-</td><td class="zentriert">izquierdo</td><td class="zentriert">01/07/2022</td><td class="zentriert"><a title="CF Badalona Futur: Ablöse Libre" href="/fc-badalona/startseite/verein/6638/saison_id/2022"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/6638.png?lm=1666877307" title="CF Badalona Futur" alt="CF Badalona Futur" class="" /></a></td><td class="zentriert">30/06/2023</td><td class="rechts hauptlink">50 mil €</td></tr>
+<tr class="even">
+<td title="$data-&gt;getPositionDisplay()" class="zentriert rueckennummer bg_Sturm"><div class="rn_nummer">23</div></td><td class="posrela"><span class="wechsel-kader-wappen hide-for-small"><a title="Nuevo fichaje del: Club Gimnàstic Manresa Juvenil A; Fecha: 07/07/2022; Coste: Libre" href="/club-gimnastic-manresa-juvenil-a/startseite/verein/70378/saison_id/2022"><img src="https://tmssl.akamaized.net/images/wappen/kaderquad/70378.png?lm=1540949219" title="Club Gimnàstic Manresa Juvenil A" alt="Club Gimnàstic Manresa Juvenil A" class="" /></a></span><a title="Nuevo fichaje del: Club Gimnàstic Manresa Juvenil A; Fecha: 07/07/2022; Coste: Libre" class="hide-for-small" href="/club-gimnastic-manresa-juvenil-a/startseite/verein/70378/saison_id/2022"><img src="/images/icons/zugang_beta_kader.png" class="wechsel-symbol" width="19px" height="19px" /></a>
+<table class="inline-table">
+    <tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1" title="Bakary Cissé" alt="Bakary Cissé" class="bilderrahmen-fixed lazy lazy" />        </td>
+        <td class="hauptlink">
+            <a href="/bakary-cisse/profil/spieler/1030732">
+                Bakary Cissé            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Extremo izquierdo        </td>
+    </tr>
+</table>
+</td><td class="zentriert">01/01/2003 (19)</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/149.png?lm=1520611569" title="Senegal" alt="Senegal" class="flaggenrahmen" /></td><td class="zentriert">-</td><td class="zentriert"></td><td class="zentriert">07/07/2022</td><td class="zentriert"><a title="Club Gimnàstic Manresa Juvenil A: Ablöse Libre" href="/club-gimnastic-manresa-u19/startseite/verein/70378/saison_id/2022"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/70378.png?lm=1540949219" title="Club Gimnàstic Manresa Juvenil A" alt="Club Gimnàstic Manresa Juvenil A" class="" /></a></td><td class="zentriert">30/06/2023</td><td class="rechts hauptlink">25 mil €</td></tr>
+<tr class="odd">
+<td title="$data-&gt;getPositionDisplay()" class="zentriert rueckennummer bg_Sturm"><div class="rn_nummer">7</div></td><td class="posrela">
+<table class="inline-table">
+    <tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1" title="Pau Salvans" alt="Pau Salvans" class="bilderrahmen-fixed lazy lazy" />        </td>
+        <td class="hauptlink">
+            <a href="/pau-salvans/profil/spieler/592696">
+                Pau Salvans            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Extremo derecho        </td>
+    </tr>
+</table>
+</td><td class="zentriert">03/03/1999 (23)</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/157.png?lm=1520611569" title="España" alt="España" class="flaggenrahmen" /></td><td class="zentriert">1,76m</td><td class="zentriert">derecho</td><td class="zentriert">28/07/2021</td><td class="zentriert"><a title="RCD Espanyol B: Ablöse Libre" href="/espanyol-barcelona-b/startseite/verein/10773/saison_id/2021"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/10773.png?lm=1406966369" title="RCD Espanyol B" alt="RCD Espanyol B" class="" /></a></td><td class="zentriert">30/06/2023</td><td class="rechts hauptlink">100 mil €</td></tr>
+<tr class="even">
+<td title="$data-&gt;getPositionDisplay()" class="zentriert rueckennummer bg_Sturm"><div class="rn_nummer">11</div></td><td class="posrela">
+<table class="inline-table">
+    <tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1" title="Adrián Rivas" alt="Adrián Rivas" class="bilderrahmen-fixed lazy lazy" />        </td>
+        <td class="hauptlink">
+            <a href="/adrian-rivas/profil/spieler/441297">
+                Adrián Rivas            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Extremo derecho        </td>
+    </tr>
+</table>
+</td><td class="zentriert">24/05/1997 (25)</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/157.png?lm=1520611569" title="España" alt="España" class="flaggenrahmen" /></td><td class="zentriert">1,83m</td><td class="zentriert"></td><td class="zentriert">01/07/2021</td><td class="zentriert"><a title="CP San Cristóbal: Ablöse Libre" href="/cp-san-cristobal/startseite/verein/66465/saison_id/2021"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/66465.png?lm=1540322236" title="CP San Cristóbal" alt="CP San Cristóbal" class="" /></a></td><td class="zentriert">30/06/2023</td><td class="rechts hauptlink">100 mil €</td></tr>
+<tr class="odd">
+<td title="$data-&gt;getPositionDisplay()" class="zentriert rueckennummer bg_Sturm"><div class="rn_nummer">21</div></td><td class="posrela"><span class="wechsel-kader-wappen hide-for-small"><a title="Nuevo fichaje del: CD Manchego Ciudad Real; Fecha: 01/07/2022; Coste: Libre" href="/cd-manchego-ciudad-real/startseite/verein/38268/saison_id/2022"><img src="https://tmssl.akamaized.net/images/wappen/kaderquad/38268.png?lm=1670591760" title="CD Manchego Ciudad Real" alt="CD Manchego Ciudad Real" class="" /></a></span><a title="Nuevo fichaje del: CD Manchego Ciudad Real; Fecha: 01/07/2022; Coste: Libre" class="hide-for-small" href="/cd-manchego-ciudad-real/startseite/verein/38268/saison_id/2022"><img src="/images/icons/zugang_beta_kader.png" class="wechsel-symbol" width="19px" height="19px" /></a>
+<table class="inline-table">
+    <tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/500275-1642416896.png?lm=1" title="Jordan Gutiérrez" alt="Jordan Gutiérrez" class="bilderrahmen-fixed lazy lazy" />        </td>
+        <td class="hauptlink">
+            <a href="/jordan-gutierrez/profil/spieler/500275">
+                Jordan Gutiérrez            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Extremo derecho        </td>
+    </tr>
+</table>
+</td><td class="zentriert">08/07/1998 (24)</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/8.png?lm=1520611569" title="Guinea Ecuatorial" alt="Guinea Ecuatorial" class="flaggenrahmen" /><br /><img src="https://tmssl.akamaized.net/images/flagge/verysmall/157.png?lm=1520611569" title="España" alt="España" class="flaggenrahmen" /></td><td class="zentriert">1,69m</td><td class="zentriert">ambidiestro</td><td class="zentriert">01/07/2022</td><td class="zentriert"><a title="CD Manchego Ciudad Real: Ablöse Libre" href="/cd-manchego-ciudad-real/startseite/verein/38268/saison_id/2022"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/38268.png?lm=1670591760" title="CD Manchego Ciudad Real" alt="CD Manchego Ciudad Real" class="" /></a></td><td class="zentriert">30/06/2023</td><td class="rechts hauptlink">25 mil €</td></tr>
+<tr class="even">
+<td title="$data-&gt;getPositionDisplay()" class="zentriert rueckennummer bg_Sturm"><div class="rn_nummer">9</div></td><td class="posrela"><span class="wechsel-kader-wappen hide-for-small"><a title="Nuevo fichaje del: Hércules CF B; Fecha: 01/07/2022; Coste: Libre" href="/hercules-cf-b/startseite/verein/15066/saison_id/2022"><img src="https://tmssl.akamaized.net/images/wappen/kaderquad/15066.png?lm=1437942824" title="Hércules CF B" alt="Hércules CF B" class="" /></a></span><a title="Nuevo fichaje del: Hércules CF B; Fecha: 01/07/2022; Coste: Libre" class="hide-for-small" href="/hercules-cf-b/startseite/verein/15066/saison_id/2022"><img src="/images/icons/zugang_beta_kader.png" class="wechsel-symbol" width="19px" height="19px" /></a>
+<table class="inline-table">
+    <tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1" title="Pablo Ufano" alt="Pablo Ufano" class="bilderrahmen-fixed lazy lazy" />        </td>
+        <td class="hauptlink">
+            <a href="/pablo-ufano/profil/spieler/705405">
+                Pablo Ufano            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Delantero centro        </td>
+    </tr>
+</table>
+</td><td class="zentriert">26/04/2001 (21)</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/157.png?lm=1520611569" title="España" alt="España" class="flaggenrahmen" /></td><td class="zentriert">-</td><td class="zentriert"></td><td class="zentriert">01/07/2022</td><td class="zentriert"><a title="Hércules CF B: Ablöse Libre" href="/hercules-alicante-b/startseite/verein/15066/saison_id/2022"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/15066.png?lm=1437942824" title="Hércules CF B" alt="Hércules CF B" class="" /></a></td><td class="zentriert">30/06/2023</td><td class="rechts hauptlink">100 mil €</td></tr>
+<tr class="odd">
+<td title="$data-&gt;getPositionDisplay()" class="zentriert rueckennummer bg_Sturm"><div class="rn_nummer">12</div></td><td class="posrela"><span class="wechsel-kader-wappen hide-for-small"><a title="Nuevo fichaje del: Cerdanyola FC; Fecha: 01/07/2022; Coste: Libre" href="/cerdanyola-fc/startseite/verein/54894/saison_id/2022"><img src="https://tmssl.akamaized.net/images/wappen/kaderquad/54894.png?lm=1468617266" title="Cerdanyola FC" alt="Cerdanyola FC" class="" /></a></span><a title="Nuevo fichaje del: Cerdanyola FC; Fecha: 01/07/2022; Coste: Libre" class="hide-for-small" href="/cerdanyola-fc/startseite/verein/54894/saison_id/2022"><img src="/images/icons/zugang_beta_kader.png" class="wechsel-symbol" width="19px" height="19px" /></a>
+<table class="inline-table">
+    <tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1" title="Elhadji Bandeh" alt="Elhadji Bandeh" class="bilderrahmen-fixed lazy lazy" />        </td>
+        <td class="hauptlink">
+            <a href="/elhadji-bandeh/profil/spieler/603965">
+                Elhadji Bandeh            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Delantero centro        </td>
+    </tr>
+</table>
+</td><td class="zentriert">02/08/1990 (32)</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/157.png?lm=1520611569" title="España" alt="España" class="flaggenrahmen" /><br /><img src="https://tmssl.akamaized.net/images/flagge/verysmall/52.png?lm=1520611569" title="Gambia" alt="Gambia" class="flaggenrahmen" /></td><td class="zentriert">1,95m</td><td class="zentriert"></td><td class="zentriert">01/07/2022</td><td class="zentriert"><a title="Cerdanyola FC: Ablöse Libre" href="/cerdanyola-fc/startseite/verein/54894/saison_id/2022"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/54894.png?lm=1468617266" title="Cerdanyola FC" alt="Cerdanyola FC" class="" /></a></td><td class="zentriert">30/06/2023</td><td class="rechts hauptlink">50 mil €</td></tr>
+</tbody>
+</table>

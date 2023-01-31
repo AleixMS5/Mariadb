@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<header>
+
+    <H1>JUGADORS {{jocs[1].get('team')}}</H1>
+
+
+</header>
+<body>
+<table class="table table-striped">
+    <form method="post" action="/">
+    <thead class="table-dark">
+    <td> <input   class="btn btn-primary" type="submit" value="{{jocs[1].get('id')}},numero" name="ordenar"/></td>
+    <td><input   class="btn btn-primary" type="submit" value="{{jocs[1].get('id')}},nombre" name="ordenar"/></td>
+    <td><input   class="btn btn-primary" type="submit" value="{{jocs[1].get('id')}},posicion" name="ordenar"/></td>
+    <td><input   class="btn btn-primary" type="submit" value="{{jocs[1].get('id')}},nacimiento" name="ordenar"/></td>
+    <td><input   class="btn btn-primary" type="submit" value="{{jocs[1].get('id')}},altura" name="ordenar"/></td>
+    <td><input   class="btn btn-primary" type="submit" value="{{jocs[1].get('id')}},valorMercado" name="ordenar"/></td>
+</thead>
+         </form>
+    <tbody>
+{% for jugador in jocs %}
+
+<tr>
+    <td>{{jugador.get('numero')}}</td>
+    <td>{{jugador.get('nombre')}}</td>
+    <td>{{jugador.get('posicion')}}</td>
+    <td>{{jugador.get('naixement')}}</td>
+    <td>{{jugador.get('altura')}}</td>
+    <td>{{jugador.get('valor')}}</td>
+</tr>
+
+{% endfor %}
+    </tbody>
+    </table>
+
+</body>
+<footer>
+    <p>Aleix Montero Sabaté</p>
+</footer>
+</html>
